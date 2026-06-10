@@ -56,14 +56,14 @@ cd CodingBat
 (Note: if GitHub Desktop is not installed, you can download it [here](https://desktop.github.com/download/).)
 
 1. Open the GitHub repository: [CodingBat Repository](https://github.com/tun67213/CodingBat)
-2. Click the "<> Code" button
-3. Ensure that "Local" is selected
-4. Do the following:
-   1. Select "Open with GitHub Desktop"
-   2. Click "Clone Repository"
-5. GitHub Desktop will open automatically and begin cloning the repository.
-6. Once completed, the repository will be available on your local device.
-7. You can now proceed to the steps below.
+2. Click the <> Code button.
+3. Make sure Local is selected.
+4. Select Open with GitHub Desktop.
+5. GitHub Desktop will open automatically and ask where you would like to save the repository on your computer.
+6. Choose a local folder/location, then click Clone.
+7. Once cloning is complete, the repository will be available on your local device.
+   
+You can now proceed to the steps below.
 
 ### Compile and Run
 
